@@ -6,6 +6,8 @@
 
 Mr. Mueller grew up in Colorado and moved to Brooklyn, NY in 2011.  He began his career as a math teacher, but switched to teaching computer science as a part of the NYC Software Engineering Pilot.
 
+---
+
 Schedule  
 1. Prep  
 2. SEP11  
@@ -16,6 +18,7 @@ Schedule
 7. APCSA  
 8. Prep
 
+---
 
 Thanks for viewing!
 
