@@ -1,22 +1,26 @@
-# Mr. Mueller  
+# **Tarek Bachir**
 ---
-## _Software Engineering Teacher_
+## _High School Student_
 #### **High School of Telecommunication Arts and Technology**  
-#### bmueller@hstat.org
+#### Tarekb4385@hstat.org
 
-Mr. Mueller grew up in Colorado and moved to Brooklyn, NY in 2011.  He began his career as a math teacher, but switched to teaching computer science as a part of the NYC Software Engineering Pilot.
+Tarek grew up in New york.  He began his career as a student, but is in the future months, going to use technology to get rich so He won't go to college and gain a great life.
 
 Schedule  
 1. Prep  
-2. SEP11  
-3. SEP11  
-4. Prep  
-5. SEP10  
-6. SEP10  
-7. APCSA  
-8. Prep
+2. chemistry
+3. english 
+4. lunch  
+5. math 
+6. SEP
+7. gym
+8. global history
+9. music
+10. eat
+11. sleep
+12. repeat cycle
 
 
 Thanks for viewing!
 
-![halloween picture](brian-halloween.jpg)
+![Portrait picture of me](me.jpeg)
