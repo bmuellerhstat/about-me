@@ -23,4 +23,5 @@ Schedule
 
 Thanks for viewing!
 
-![Portrait picture of me](me.jpeg)
+![picture of my favorite element](<img src="blob:chrome-untrusted://media-app/5ec8a0b2-47ab-4759-a1fe-fe7cad355ed4" alt="neon.jpg"/>![image](https://user-images.githubusercontent.com/73482369/112158339-718c4f80-8bbe-11eb-8fe7-3cad9986bf88.png)
+)
