@@ -10,11 +10,11 @@ Schedule
 1. Prep  
 2. SEP11  
 3. SEP11  
-4. Prep  
-5. SEP10  
+4. SEP10
+5. Lunch  
 6. SEP10  
 7. APCSA  
-8. Prep
+8. Prep 
 
 
 Thanks for viewing!
