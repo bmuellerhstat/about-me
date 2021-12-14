@@ -16,6 +16,7 @@ Schedule
 7. APCSA  
 8. Prep 
 
+My favorite ice cream is mint chocolate chip.
 
 Thanks for viewing!
 
