@@ -1,23 +1,12 @@
-# Mr. Mueller  
+# Eugene Ekkel  
 ---
-## _Software Engineering Teacher_
+## _Software Engineering Student_
 #### **High School of Telecommunication Arts and Technology**  
-#### bmueller@hstat.org
+#### eugenee8613@hstat.org
 
-Mr. Mueller grew up in Colorado and moved to Brooklyn, NY in 2011.  He began his career as a math teacher, but switched to teaching computer science as a part of the NYC Software Engineering Pilot.
+Eugene grew up in Brookyln, NY. He was born in 2006
 
-Schedule  
-1. Prep  
-2. SEP11  
-3. SEP11  
-4. SEP10
-5. Lunch  
-6. SEP10  
-7. APCSA  
-8. Prep 
 
-My favorite ice cream is mint chocolate chip.
+My favorite ice cream is cookie dough.
 
-Thanks for viewing!
 
-![halloween picture](brian-halloween.jpg)
