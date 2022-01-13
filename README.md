@@ -18,6 +18,6 @@ Schedule
 
 My favorite ice cream is mint chocolate chip.
 
-**_Thanks for viewing and have a peppermint !_**
+**_Thanks for viewing and have a peppermint day!_**
 
 ![halloween picture](brian-halloween.jpg)
